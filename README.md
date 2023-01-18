@@ -4,7 +4,7 @@
 * Very simple AI that detect faces using Python OpenCV (https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 * Some other project I guess...
 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacheguy)](https://github.com/cacheguy/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacheguy)](https://github.com/anuraghazra/github-readme-stats)
 ![Cacheguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacheguy&show_icons=true&icon_color=ffffff&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff)
 
 
