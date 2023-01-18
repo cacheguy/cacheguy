@@ -1,7 +1,7 @@
 # Cacheguy 👋 ![](https://komarev.com/ghpvc/?username=cacheguy&color=1aba82)
 ## What I'm Working On 📒
 * A 2D platformer game created using the Arcade library (https://api.arcade.academy/en/latest/) 
-* Very simple AI that detect faces
+* Very simple AI that detect faces using Python OpenCV (https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 * Some other project I guess...
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacheguy)](https://github.com/anuraghazra/github-readme-stats)
