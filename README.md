@@ -1,10 +1,10 @@
 # Cacheguy 👋 ![](https://komarev.com/ghpvc/?username=cacheguy&color=1aba82)
 ## About Me 😎
-I'm a teen that is addicted to gamedev. And I'm good at it. I think... \
+I'm a teen that is addicted to gamedev. And I'm good at it. I think... 
 
-I'm also highly addicted to Python. I'm hoping to learn C, C++, and C#. \
+I'm also highly addicted to Python. I'm hoping to learn C, C++, and C#. 
 
-My favorite animal is the golden snub-nosed monkey. \
+My favorite animal is the golden snub-nosed monkey. 
 
 ## What I'm Working On 📒
 * A 2D platformer game created using the Arcade library (https://api.arcade.academy/en/latest/) 
