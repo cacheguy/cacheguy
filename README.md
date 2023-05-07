@@ -1,7 +1,15 @@
 # Cacheguy 👋 ![](https://komarev.com/ghpvc/?username=cacheguy&color=1aba82)
+## About Me 😎
+I'm a teen that is addicted to gamedev. And I'm good at it. I think... \
+
+I'm also highly addicted to Python. I'm hoping to learn C, C++, and C#. \
+
+My favorite animal is the golden snub-nosed monkey. \
+
 ## What I'm Working On 📒
 * A 2D platformer game created using the Arcade library (https://api.arcade.academy/en/latest/) 
-* Very simple AI that detect faces using Python OpenCV (https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+* Possibly a game made using Panda3d
+* Start learning C# so I can use Unity.
 * Some other project I guess...
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacheguy)](https://github.com/anuraghazra/github-readme-stats)
