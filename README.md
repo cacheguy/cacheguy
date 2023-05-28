@@ -1,13 +1,14 @@
 # Cacheguy 👋 ![](https://komarev.com/ghpvc/?username=cacheguy&color=1aba82)
 ## About Me 😎
-I'm a teen that is addicted to gamedev. And I'm good at it. I think... 
+I'm your average coder/gamer that is addicted to gamedev. And I'm good at it. I think... 
 
 I'm also highly addicted to Python. I'm hoping to learn C, C++, and C#. 
 
-My favorite animal is the golden snub-nosed monkey. 
+I like ducks. 
 
 ## What I'm Working On 📒
-* A 2D platformer game created using the Arcade library (https://api.arcade.academy/en/latest/) 
+* A 2D platformer game called Runner Mania, created using the Arcade library (https://api.arcade.academy/en/latest/) 
+* A top-down shooter game
 * Possibly a game made using Panda3d
 * Start learning C# so I can use Unity.
 * Some other project I guess...
