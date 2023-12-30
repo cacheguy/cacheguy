@@ -4,13 +4,10 @@ I'm your average coder/gamer that is addicted to gamedev. And I'm good at it. I 
 
 I'm also highly addicted to Python. I'm hoping to learn C, C++, and C#. 
 
-I like ducks. 
-
 ## What I'm Working On 📒
-* A 2D platformer game called Runner Mania, created using the Arcade library (https://api.arcade.academy/en/latest/) 
-* A top-down shooter game
+* An RPG game
 * Possibly a game made using Panda3d
-* Start learning C# so I can use Unity.
+* Start learning how to use Godot
 * Some other project I guess...
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacheguy)](https://github.com/anuraghazra/github-readme-stats)
